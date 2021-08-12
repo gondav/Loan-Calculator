@@ -9,4 +9,4 @@ This project is part of [JavaScript From the beginning](https://www.udemy.com/co
   - JavaScript
   - HTML
   - CSS
-  - Bootstrap 5
+  - Bootstrap 4
